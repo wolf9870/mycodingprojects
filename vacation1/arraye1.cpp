@@ -17,8 +17,9 @@ int main(){
         else high=mid-1;
 
     }
-    cout<<low;
+    return<<low;
     
 
     
+
 }
